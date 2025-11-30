@@ -1,0 +1,9 @@
+{
+	"name": "practicebatchadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76bfb18b-a4d6-4134-a6b4-7d0bf45b1644",
+		"tenantId": "04a8fdf7-8bd6-4031-a714-0f42d3bbde2a"
+	}
+}
